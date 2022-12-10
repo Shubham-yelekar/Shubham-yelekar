@@ -13,7 +13,7 @@
 - 📫 How to reach me **shubhamyelekar0@gmail.com**  
   
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Shubham-yelekar&show_icons=true&border_color=383838&border_radius=20&bg_color=1C1B1C&title_color=FECD67&icon_color=FECD67&text_color=FEFEFE"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Shubham-yelekar&show_icons=true&border_color=383838&border_radius=5&bg_color=1C1B1C&title_color=FECD67&icon_color=FECD67&text_color=FEFEFE"/>
 
 
 
