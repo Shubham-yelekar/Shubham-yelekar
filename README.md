@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning **React.js and Framer Motion**  
   
-- 👨‍💻 All of my projects are available at [https://shubham-yelekar.netlify.app](https://shubu-portfolio.netlify.app)  
+- 👨‍💻 All of my projects are available at [https://shubhamyelekar.com](https://shubham-yelekar.netlify.app)  
   
 - 💬 Ask me about **Html, Css , Javascript and React.js**  
   
