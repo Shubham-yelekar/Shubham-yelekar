@@ -2,16 +2,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Yelekar</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
 
-- 🔭 I’m currently working on **React Js**  
-  
-- 🌱 I’m currently learning **React.js and Framer Motion**  
-  
-- 👨‍💻 All of my projects are available at [https://shubhamyelekar.com](https://shubham-yelekar.netlify.app)  
-  
-- 💬 Ask me about **Html, Css , Javascript and React.js**  
-  
-- 📫 How to reach me **shubhamyelekar0@gmail.com**  
-  
+- 👨‍💻 My portfolio website [https://shubhamyelekar.com](https://shubham-yelekar.netlify.app)  
+
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Shubham-yelekar&show_icons=true&border_color=383838&border_radius=5&bg_color=1C1B1C&title_color=FECD67&icon_color=FECD67&text_color=FEFEFE"/>
 
