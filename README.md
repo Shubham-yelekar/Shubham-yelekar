@@ -51,8 +51,8 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
   </thead>
   <tbody>
     <tr>
-      <td style="width: 50%; max-width: 50%; padding: 16px; vertical-align: top;">
-        <strong style="font-size: 20px; color: #0969da; padding: 8px;">LC300 2025</strong>
+      <td style="width: 50%; max-width: 50%;vertical-align: top;">
+        <strong style="font-size: 24px; color: #0969da; padding: 8px;">LC300 2025</strong>
         <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
         <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
              alt="LC300 2025 Landing Page Screenshot" 
