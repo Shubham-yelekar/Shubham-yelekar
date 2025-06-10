@@ -44,9 +44,9 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 <table style="width: calc(100% + 40px); border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="text-align: left; padding: 16px;">Projects</th>
-      <th style="text-align: left; padding: 16px; ">Tech Stack</th>
-      <th style="text-align: left; padding: 16px; ">Links</th>
+      <th style="padding: 16px;">Projects</th>
+      <th style="padding: 16px; ">Tech Stack</th>
+      <th style="padding: 16px; ">Links</th>
     </tr>
   </thead>
   <tbody>
