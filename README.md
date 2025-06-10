@@ -53,12 +53,12 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
     <tr>
       <td style="padding: 16px; vertical-align: top;">
         <strong style="font-size: 20px; color: #0969da; padding: 8px;">LC300 2025</strong>
-        <p style="margin: 8px 0; color: #656d76; padding: 8px;">Landing Page</p>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
         <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
              alt="LC300 2025 Landing Page Screenshot" 
-             style="width: 40%; max-width: 200px; border-radius: 8px; margin-top: 8px" />
+             style="border-radius: 8px; margin-top: 8px" />
       </td>
-      <td style="padding: 16px; vertical-align: top;">
+      <td style="padding: 18px; vertical-align: top;">
         <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" /> GSAP, Swiper
       </td>
       <td style="padding:16px; vertical-align: top;">
@@ -69,12 +69,12 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
           🔗 Live Demo
         </a>
         <br><br>
-        <a href="#" 
+        <!-- <a href="#" 
            target="_blank" 
            rel="noopener noreferrer"
            style="display: inline-block; padding: 8px 16px; background: #24292f; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
           📁 Source Code
-        </a>
+        </a> -->
       </td>
     </tr>
   </tbody>
