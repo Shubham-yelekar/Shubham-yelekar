@@ -43,14 +43,14 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 <table style="width: calc(100% + 40px); border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="width: 40%; text-align: left; padding: 16px;">Projects</th>
+      <th style="max-width: 40%; text-align: left; padding: 16px;">Projects</th>
       <th style="text-align: left; padding: 16px; ">Tech Stack</th>
       <th style="text-align: left; padding: 16px; ">Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 16px; vertical-align: top;">
+      <td style="padding: 16px; vertical-align: top; style="max-width: 40%; ">
         <strong style="font-size: 20px; color: #0969da;">LC300 2025</strong>
         <p style="margin: 8px 0; color: #656d76;">Landing Page</p>
         <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
