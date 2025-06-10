@@ -1,7 +1,6 @@
 
 ## Hi there! Shubham here ~
 
-<br>
 Hey, I’m Shubham Yelekar, a Front-end engineer who enjoys designing and coding.
 
 I focus on creating easy-to-use and visually pleasing interfaces. I’m currently working at Artificial Reality, where I turn my designs into working applications.
