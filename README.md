@@ -52,9 +52,9 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
   <tbody>
     <tr>
       <td style="width: 50%; max-width: 50%;vertical-align: top;">
-        <strong style="font-size: 24px; color: #0969da; padding: 8px;">LC300 2025</strong>
+        <strong style="font-size: 24px; color: #0969da; padding: 8px;">Toyota LC300 2025</strong>
         <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
-        <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
+        <img src="https://ucarecdn.com/961683ce-ba5f-4a9d-809b-76a5fb34964f/-/preview/450x300/" 
              alt="LC300 2025 Landing Page Screenshot" 
              style="border-radius: 8px; margin-top: 8px" />
       </td>
@@ -62,19 +62,79 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
         <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" /> GSAP, Swiper
       </td>
       <td style="padding:16px; vertical-align: top;">
-        <a href="#" 
+        <a href="https://www.toyotabharat.com/showroom/lc300/" 
            target="_blank" 
            rel="noopener noreferrer"
            style="display: inline-block; padding: 8px 16px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
           🔗 Live Demo
         </a>
-        <br><br>
         <!-- <a href="#" 
            target="_blank" 
            rel="noopener noreferrer"
            style="display: inline-block; padding: 8px 16px; background: #24292f; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
           📁 Source Code
         </a> -->
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; max-width: 50%;vertical-align: top;">
+        <strong style="font-size: 24px; color: #0969da; padding: 8px;">Toyota Tasior 2024</strong>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
+        <img src="https://ucarecdn.com/8e125cef-7677-412d-b3c9-2080f1bf2917/-/preview/450x300/" 
+             alt="Taisor Landing Page Screenshot" 
+             style="border-radius: 8px; margin-top: 8px" />
+      </td>
+      <td style="padding: 18px; vertical-align: top;">
+        <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" /> GSAP
+      </td>
+      <td style="padding:16px; vertical-align: top;">
+        <a href="https://www.toyotabharat.com/showroom/urbancruiser-taisor/" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 8px 16px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          🔗 Live Demo
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; max-width: 50%;vertical-align: top;">
+        <strong style="font-size: 24px; color: #0969da; padding: 8px;">Kalakar Ace Studio</strong>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
+        <img src="https://ucarecdn.com/19783243-859c-4620-8a5a-e8beb29d805e/-/preview/450x300/" 
+             alt="Kalakar Ace Landing Page Screenshot" 
+             style="border-radius: 8px; margin-top: 8px" />
+      </td>
+      <td style="padding: 18px; vertical-align: top;">
+        <img height="24" src="https://skillicons.dev/icons?i=react" alt="HTML, CSS, JavaScript" />
+      </td>
+      <td style="padding:16px; vertical-align: top;">
+        <a href="https://next-js-kalakar-india.vercel.app/" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 8px 16px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          🔗 Live Demo
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; max-width: 50%;vertical-align: top;">
+        <strong style="font-size: 24px; color: #0969da; padding: 8px;">Apple Website</strong>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
+        <img src="https://ucarecdn.com/13d8f09a-6505-4367-a20b-870a889b4bfb/-/preview/450x300/" 
+             alt="Kalakar Ace Landing Page Screenshot" 
+             style="border-radius: 8px; margin-top: 8px" />
+      </td>
+      <td style="padding: 18px; vertical-align: top;">
+        <img height="24" src="https://skillicons.dev/icons?i=react,threejs," alt="HTML, CSS, JavaScript" /> 
+        <p>Motion</p>
+      </td>
+      <td style="padding:16px; vertical-align: top;">
+        <a href="https://applewebsitecloneshubu.netlify.app/" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 8px 16px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          🔗 Live Demo
+        </a>
       </td>
     </tr>
   </tbody>
