@@ -36,7 +36,8 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
     </tr>
 </table>
 
---- 
+---
+
 ### Projects I am proud about
 
 <div style="margin: 0 -20px;">
@@ -50,16 +51,15 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 16px; vertical-align: top; style="max-width: 40%; ">
-        <strong style="font-size: 20px; color: #0969da;">LC300 2025</strong>
-        <p style="margin: 8px 0; color: #656d76;">Landing Page</p>
-        <img src="https://ucarecdn.com/961683ce-ba5f-4a9d-809b-76a5fb34964f/-/preview/450x300/" 
+      <td style="padding: 16px; vertical-align: top;">
+        <strong style="font-size: 20px; color: #0969da; padding: 8px;">LC300 2025</strong>
+        <p style="margin: 8px 0; color: #656d76; padding: 8px;">Landing Page</p>
+        <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
              alt="LC300 2025 Landing Page Screenshot" 
              style="width: 100%; max-width: 200px; border-radius: 8px; margin-top: 8px" />
       </td>
       <td style="padding: 16px; vertical-align: top;">
-        <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
-        <p style="margin: 8px 0; color: #656d76;">GSAP, Swiper</p>
+        <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" /> GSAP, Swiper
       </td>
       <td style="padding: 16px;  vertical-align: top;">
         <a href="#" 
@@ -80,7 +80,5 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
   </tbody>
 </table>
 </div>
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
