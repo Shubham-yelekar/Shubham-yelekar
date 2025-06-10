@@ -53,7 +53,7 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
     <tr>
       <td style="width: 50%; max-width: 50%;vertical-align: top;">
         <strong style="font-size: 24px; color: #0969da; padding: 8px;">Toyota LC300 2025</strong>
-        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Official Landing Page</p>
         <img src="https://ucarecdn.com/961683ce-ba5f-4a9d-809b-76a5fb34964f/-/preview/450x300/" 
              alt="LC300 2025 Landing Page Screenshot" 
              style="border-radius: 8px; margin-top: 8px" />
@@ -68,18 +68,12 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
            style="display: inline-block; padding: 8px 16px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
           🔗 Live Demo
         </a>
-        <!-- <a href="#" 
-           target="_blank" 
-           rel="noopener noreferrer"
-           style="display: inline-block; padding: 8px 16px; background: #24292f; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
-          📁 Source Code
-        </a> -->
       </td>
     </tr>
     <tr>
       <td style="width: 50%; max-width: 50%;vertical-align: top;">
         <strong style="font-size: 24px; color: #0969da; padding: 8px;">Toyota Tasior 2024</strong>
-        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Landing Page</p>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Official Landing Page</p>
         <img src="https://ucarecdn.com/8e125cef-7677-412d-b3c9-2080f1bf2917/-/preview/450x300/" 
              alt="Taisor Landing Page Screenshot" 
              style="border-radius: 8px; margin-top: 8px" />
@@ -93,6 +87,60 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
            rel="noopener noreferrer"
            style="display: inline-block; padding: 8px 16px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
           🔗 Live Demo
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; max-width: 50%;vertical-align: top;">
+        <strong style="font-size: 24px; color: #0969da; padding: 8px;">Blog Website</strong>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Studio blogs - write and share your experience</p>
+        <img src="https://ucarecdn.com/30a76e16-2989-4c7b-80f4-66b8aa5f2489/blogs.jpg" 
+             alt="Studio Blogs Landing Page Screenshot" 
+             style="border-radius: 8px; margin-top: 8px" />
+      </td>
+      <td style="padding: 18px; vertical-align: top;">
+        <img height="24" src="https://skillicons.dev/icons?i=react" alt="HTML, CSS, JavaScript" />
+      </td>
+      <td style="padding:16px; vertical-align: top;">
+        <a href="https://studio-blogs.netlify.app/" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 4px 8px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          🔗 Live Demo
+        </a>
+        <a>
+           <a href="https://github.com/Shubham-yelekar/blog-website" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 4px 8px; margin-top:8px;background: #24292f; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          📁 Code Repo
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; max-width: 50%;vertical-align: top;">
+        <strong style="font-size: 24px; color: #0969da; padding: 8px;">Protfolio v2 (2025)</strong>
+        <p style="margin: 8px 0; color:rgb(197, 197, 197); padding: 8px;">Personal corner to update my current interests</p>
+        <img src="https://ucarecdn.com/e2939370-704b-46a3-ab62-406890c37450/-/preview/450x300/" 
+             alt="Protfolio v2 Screenshot" 
+             style="border-radius: 8px; margin-top: 8px" />
+      </td>
+      <td style="padding: 18px; vertical-align: top;">
+        <img height="24" src="https://skillicons.dev/icons?i=react" alt="HTML, CSS, JavaScript" />
+      </td>
+      <td style="padding:16px; vertical-align: top;">
+        <a href="https://shubhamyelekar.vercel.app/" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 4px 8px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          🔗 Live Demo
+        </a>
+        <a>
+           <a href="https://github.com/Shubham-yelekar/portfolio2024" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 4px 8px; margin-top:8px;background: #24292f; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          📁 Code Repo
         </a>
       </td>
     </tr>
@@ -141,4 +189,3 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 </table>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
