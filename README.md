@@ -99,7 +99,7 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
              style="border-radius: 8px; margin-top: 8px" />
       </td>
       <td style="padding: 18px; vertical-align: top;">
-        <img height="24" src="https://skillicons.dev/icons?i=react" alt="HTML, CSS, JavaScript" />
+        <img height="24" src="https://skillicons.dev/icons?i=react,redux,appwrite" alt="HTML, CSS, JavaScript" />
       </td>
       <td style="padding:16px; vertical-align: top;">
         <a href="https://studio-blogs.netlify.app/" 
@@ -188,4 +188,3 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
   </tbody>
 </table>
 </div>
-
