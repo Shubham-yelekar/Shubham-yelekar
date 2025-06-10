@@ -55,7 +55,7 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
         <p style="margin: 8px 0; color: #656d76;">Landing Page</p>
         <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
              alt="LC300 2025 Landing Page Screenshot" 
-             style="width: 100%; max-width: 400px; border-radius: 8px; margin-top: 8px" />
+             style="width: 100%; max-width: 200px; border-radius: 8px; margin-top: 8px" />
       </td>
       <td style="padding: 16px; vertical-align: top;">
         <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
