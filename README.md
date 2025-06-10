@@ -44,7 +44,7 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 <table style="width: calc(100% + 40px); border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="max-width: 40%; text-align: left; padding: 16px;">Projects</th>
+      <th style="text-align: left; padding: 16px;">Projects</th>
       <th style="text-align: left; padding: 16px; ">Tech Stack</th>
       <th style="text-align: left; padding: 16px; ">Links</th>
     </tr>
@@ -56,12 +56,12 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
         <p style="margin: 8px 0; color: #656d76; padding: 8px;">Landing Page</p>
         <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
              alt="LC300 2025 Landing Page Screenshot" 
-             style="width: 50%; border-radius: 8px; margin-top: 8px" />
+             style="width: 40%; max-width: 200px; border-radius: 8px; margin-top: 8px" />
       </td>
       <td style="padding: 16px; vertical-align: top;">
         <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" /> GSAP, Swiper
       </td>
-      <td style="padding: 16px;  vertical-align: top;">
+      <td style="padding:16px; vertical-align: top;">
         <a href="#" 
            target="_blank" 
            rel="noopener noreferrer"
