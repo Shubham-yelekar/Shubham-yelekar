@@ -32,5 +32,22 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
         <td><img height="36" src="https://skillicons.dev/icons?i=git,github,bitbucket"/></td>
     </tr>
 </table>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+--- 
+### Projects I am proud about
+<table style="width:100%; ">
+  <thead  >
+    <th style="width:40%">Projects</th>
+    <th>Tech</th>
+    <th>Links</th>
+  </thead>
+  <tr>
+    <td><span style="font-weight:bold; font-size:20px">LC300 2025</span> <p>Landing Page</p> <img src="https://drive.google.com/file/d/1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9/view?usp=sharing" /></td>
+    <td><img height="24" src="https://skillicons.dev/icons?i=html,css,js"/> <p>GSAP , Swiper</p> </td>
+    <td><a>Live</a></td>
+  </tr>
+</table>
+
+<img  src="https://unsplash.com/photos/camera-and-journal-rest-on-a-wooden-surface-r0Nb1PPVHeE"/>
+
 
