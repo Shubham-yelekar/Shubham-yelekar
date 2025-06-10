@@ -1,6 +1,6 @@
-
 ## Hi there! Shubham here ~
 
+<br>
 Hey, I’m Shubham Yelekar, a Front-end engineer who enjoys designing and coding.
 
 I focus on creating easy-to-use and visually pleasing interfaces. I’m currently working at Artificial Reality, where I turn my designs into working applications.
@@ -12,8 +12,11 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamyelekar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubhamyelekar0@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![X/Twitter](https://img.shields.io/static/v1?label=X&message=twitter&color=blue)](https://x.com/shubu_y)&nbsp;
+
 ---
+
 ### 💻 Tech Stack:
+
 <table>
     <tr>
         <td style="font-weight: bold; padding: 18px; vertical-align: center;">Frontend:</td>
@@ -35,19 +38,49 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 
 --- 
 ### Projects I am proud about
-<table style="width:100%; ">
-  <thead  >
-    <th style="width:40%">Projects</th>
-    <th>Tech</th>
-    <th>Links</th>
+
+<div style="margin: 0 -20px;">
+<table style="width: calc(100% + 40px); border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="width: 40%; text-align: left; padding: 16px;">Projects</th>
+      <th style="text-align: left; padding: 16px; ">Tech Stack</th>
+      <th style="text-align: left; padding: 16px; ">Links</th>
+    </tr>
   </thead>
-  <tr>
-    <td><span style="font-weight:bold; font-size:20px">LC300 2025</span> <p>Landing Page</p> <img src="https://drive.google.com/file/d/1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9/view?usp=sharing" /></td>
-    <td><img height="24" src="https://skillicons.dev/icons?i=html,css,js"/> <p>GSAP , Swiper</p> </td>
-    <td><a>Live</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td style="padding: 16px; vertical-align: top;">
+        <strong style="font-size: 20px; color: #0969da;">LC300 2025</strong>
+        <p style="margin: 8px 0; color: #656d76;">Landing Page</p>
+        <img src="https://drive.google.com/uc?export=view&id=1BAH8QFcLL06lA569DGTEZq8CJyT-aGh9" 
+             alt="LC300 2025 Landing Page Screenshot" 
+             style="width: 100%; max-width: 400px; border-radius: 8px; margin-top: 8px" />
+      </td>
+      <td style="padding: 16px; vertical-align: top;">
+        <img height="24" src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+        <p style="margin: 8px 0; color: #656d76;">GSAP, Swiper</p>
+      </td>
+      <td style="padding: 16px;  vertical-align: top;">
+        <a href="#" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 8px 16px; background: #0969da; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          🔗 Live Demo
+        </a>
+        <br><br>
+        <a href="#" 
+           target="_blank" 
+           rel="noopener noreferrer"
+           style="display: inline-block; padding: 8px 16px; background: #24292f; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">
+          📁 Source Code
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
+</div>
 
-<img  src="https://unsplash.com/photos/camera-and-journal-rest-on-a-wooden-surface-r0Nb1PPVHeE"/>
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
