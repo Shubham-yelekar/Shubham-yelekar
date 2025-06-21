@@ -12,12 +12,15 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 <a href="https://shubhamyelekar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Portfolio&message=Website&color=blue" alt="Portfolio" />
 </a>
+
 <a href="https://www.linkedin.com/in/shubhamyelekar/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:shubhamyelekar0@gmail.com?subject=From%20GitHub&body=Hi%2C%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about..." target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
 </a>
+
 <a href="https://x.com/shubu_y" target="_blank">
   <img src="https://img.shields.io/static/v1?label=X&message=Twitter&color=blue" alt="Twitter" />
 </a>
