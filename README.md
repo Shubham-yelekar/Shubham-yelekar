@@ -48,7 +48,65 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 ---
 
 ### Projects I am proud about
+<div style="display: grid; grid-template-columns: repeat(2,1fr);  ">
 
+  <!-- Toyota LC300 -->
+  <div style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+    <h3 style="color: #0969da; font-size: 20px;">Toyota LC300 2025</h3>
+    <p style="color: #999;">Official Landing Page</p>
+    <img src="https://ucarecdn.com/961683ce-ba5f-4a9d-809b-76a5fb34964f/-/preview/450x300/" alt="LC300 Screenshot" style="width: 100%; border-radius: 8px; margin: 12px 0;">
+    <p><img height="24" src="https://skillicons.dev/icons?i=html,css,js" /> GSAP, Swiper</p>
+    <a href="https://www.toyotabharat.com/showroom/lc300/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#0969da; color:white; border-radius:6px; text-decoration:none;">🔗 Live Demo</a>
+  </div>
+
+  <!-- Toyota Taisor -->
+  <div style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+    <h3 style="color: #0969da; font-size: 20px;">Toyota Taisor 2024</h3>
+    <p style="color: #999;">Official Landing Page</p>
+    <img src="https://ucarecdn.com/8e125cef-7677-412d-b3c9-2080f1bf2917/-/preview/450x300/" alt="Taisor Screenshot" style="width: 100%; border-radius: 8px; margin: 12px 0;">
+    <p><img height="24" src="https://skillicons.dev/icons?i=html,css,js" /> GSAP</p>
+    <a href="https://www.toyotabharat.com/showroom/urbancruiser-taisor/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#0969da; color:white; border-radius:6px; text-decoration:none;">🔗 Live Demo</a>
+  </div>
+
+  <!-- Blog Website -->
+  <div style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+    <h3 style="color: #0969da; font-size: 20px;">Blog Website</h3>
+    <p style="color: #999;">Studio blogs - write and share your experience</p>
+    <img src="https://ucarecdn.com/30a76e16-2989-4c7b-80f4-66b8aa5f2489/blogs.jpg" alt="Blog Screenshot" style="width: 100%; border-radius: 8px; margin: 12px 0;">
+    <p><img height="24" src="https://skillicons.dev/icons?i=react,redux,appwrite" /></p>
+    <a href="https://studio-blogs.netlify.app/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#0969da; color:white; border-radius:6px; text-decoration:none;">🔗 Live Demo</a>
+    <a href="https://github.com/Shubham-yelekar/blog-website" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#24292f; color:white; border-radius:6px; text-decoration:none; margin-left: 8px;">📁 Code Repo</a>
+  </div>
+
+  <!-- Portfolio v2 -->
+  <div style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+    <h3 style="color: #0969da; font-size: 20px;">Portfolio v2 (2025)</h3>
+    <p style="color: #999;">Personal corner to update my current interests</p>
+    <img src="https://ucarecdn.com/e2939370-704b-46a3-ab62-406890c37450/-/preview/450x300/" alt="Portfolio Screenshot" style="width: 100%; border-radius: 8px; margin: 12px 0;">
+    <p><img height="24" src="https://skillicons.dev/icons?i=react" /></p>
+    <a href="https://shubhamyelekar.vercel.app/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#0969da; color:white; border-radius:6px; text-decoration:none;">🔗 Live Demo</a>
+    <a href="https://github.com/Shubham-yelekar/portfolio2024" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#24292f; color:white; border-radius:6px; text-decoration:none; margin-left: 8px;">📁 Code Repo</a>
+  </div>
+
+  <!-- Kalakar Ace Studio -->
+  <div style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+    <h3 style="color: #0969da; font-size: 20px;">Kalakar Ace Studio</h3>
+    <p style="color: #999;">Landing Page</p>
+    <img src="https://ucarecdn.com/19783243-859c-4620-8a5a-e8beb29d805e/-/preview/450x300/" alt="Kalakar Screenshot" style="width: 100%; border-radius: 8px; margin: 12px 0;">
+    <p><img height="24" src="https://skillicons.dev/icons?i=react" /></p>
+    <a href="https://next-js-kalakar-india.vercel.app/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#0969da; color:white; border-radius:6px; text-decoration:none;">🔗 Live Demo</a>
+  </div>
+
+  <!-- Apple Website -->
+  <div style="border: 1px solid #333; border-radius: 12px; padding: 16px;">
+    <h3 style="color: #0969da; font-size: 20px;">Apple Website</h3>
+    <p style="color: #999;">Landing Page</p>
+    <img src="https://ucarecdn.com/13d8f09a-6505-4367-a20b-870a889b4bfb/-/preview/450x300/" alt="Apple Screenshot" style="width: 100%; border-radius: 8px; margin: 12px 0;">
+    <p><img height="24" src="https://skillicons.dev/icons?i=react,threejs" /> Motion</p>
+    <a href="https://applewebsitecloneshubu.netlify.app/" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-top:8px; padding:6px 12px; background:#0969da; color:white; border-radius:6px; text-decoration:none;">🔗 Live Demo</a>
+  </div>
+
+</div>
 <div style="margin: 0 -20px;">
 <table style="width: calc(100% + 40px); border-collapse: collapse;">
   <thead>
