@@ -52,8 +52,6 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 <div style="margin: 0 -20px;">
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-
-    <!-- Toyota LC300 -->
     <td style="vertical-align: top; padding: 16px; width: 50%;">
       <h3 style="color: #0969da; font-size: 20px;">Toyota LC300 2025</h3>
       <p style="color: #999;">Official Landing Page</p>
@@ -61,8 +59,6 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
       <p><img height="24" src="https://skillicons.dev/icons?i=html,css,js" /> GSAP, Swiper</p>
       <a href="https://www.toyotabharat.com/showroom/lc300/" target="_blank" style="display:inline-block; padding: 6px 12px; background:#0969da; color:#fff; text-decoration:none; border-radius:6px;">🔗 Live Demo</a>
     </td>
-
-    <!-- Toyota Taisor -->
     <td style="vertical-align: top; padding: 16px; width: 50%;">
       <h3 style="color: #0969da; font-size: 20px;">Toyota Taisor 2024</h3>
       <p style="color: #999;">Official Landing Page</p>
@@ -71,9 +67,7 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
       <a href="https://www.toyotabharat.com/showroom/urbancruiser-taisor/" target="_blank" style="display:inline-block; padding: 6px 12px; background:#0969da; color:#fff; text-decoration:none; border-radius:6px;">🔗 Live Demo</a>
     </td>
   </tr>
-
   <tr>
-    <!-- Blog Website -->
     <td style="vertical-align: top; padding: 16px;">
       <h3 style="color: #0969da; font-size: 20px;">Blog Website</h3>
       <p style="color: #999;">Studio blogs – write and share your experience</p>
@@ -82,8 +76,6 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
       <a href="https://studio-blogs.netlify.app/" target="_blank" style="display:inline-block; padding: 6px 12px; background:#0969da; color:#fff; text-decoration:none; border-radius:6px;">🔗 Live Demo</a>
       <a href="https://github.com/Shubham-yelekar/blog-website" target="_blank" style="display:inline-block; margin-left: 8px; padding: 6px 12px; background:#24292f; color:#fff; text-decoration:none; border-radius:6px;">📁 Code Repo</a>
     </td>
-
-    <!-- Portfolio v2 -->
     <td style="vertical-align: top; padding: 16px;">
       <h3 style="color: #0969da; font-size: 20px;">Portfolio v2 (2025)</h3>
       <p style="color: #999;">Personal corner to update my current interests</p>
@@ -93,9 +85,7 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
       <a href="https://github.com/Shubham-yelekar/portfolio2024" target="_blank" style="display:inline-block; margin-left: 8px; padding: 6px 12px; background:#24292f; color:#fff; text-decoration:none; border-radius:6px;">📁 Code Repo</a>
     </td>
   </tr>
-
   <tr>
-    <!-- Kalakar Ace Studio -->
     <td style="vertical-align: top; padding: 16px;">
       <h3 style="color: #0969da; font-size: 20px;">Kalakar Ace Studio</h3>
       <p style="color: #999;">Landing Page</p>
@@ -103,8 +93,6 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
       <p><img height="24" src="https://skillicons.dev/icons?i=react" /></p>
       <a href="https://next-js-kalakar-india.vercel.app/" target="_blank" style="display:inline-block; padding: 6px 12px; background:#0969da; color:#fff; text-decoration:none; border-radius:6px;">🔗 Live Demo</a>
     </td>
-
-    <!-- Apple Website -->
     <td style="vertical-align: top; padding: 16px;">
       <h3 style="color: #0969da; font-size: 20px;">Apple Website</h3>
       <p style="color: #999;">Landing Page</p>
