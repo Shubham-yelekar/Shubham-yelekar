@@ -8,7 +8,10 @@ I focus on creating easy-to-use and visually pleasing interfaces. I’m currentl
 I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 <br>
 
-[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Website&color=blue)](https://shubhamyelekar.vercel.app/){:target="_blank"}
+
+<a href="https://shubhamyelekar.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Portfolio&message=Website&color=blue" alt="Portfolio" />
+</a>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamyelekar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubhamyelekar0@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![X/Twitter](https://img.shields.io/static/v1?label=X&message=twitter&color=blue)](https://x.com/shubu_y)&nbsp;
