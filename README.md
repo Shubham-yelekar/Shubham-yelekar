@@ -9,7 +9,7 @@ I like using tools like React.js, Next.js, and Figma to bring ideas to life.
 <br>
 
 
-<a href="https://shubhamyelekar.vercel.app/" target="_blank">
+<a href="https://shubhamyelekar.com/" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Portfolio&message=Website&color=blue" alt="Portfolio" />
 </a>
 
